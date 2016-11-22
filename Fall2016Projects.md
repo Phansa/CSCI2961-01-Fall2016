@@ -5,15 +5,17 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1avqOwvsmmOHm2v25HmAIigLUlunffFRLNCWByi3xgpA/edit#slide=id.p
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/alsheh/sympy/profile
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1RQQBycsgnPy9t_0V-7FRbIRf0ns3QFcocZfVh17L9Qs/edit
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/alsheh/sympy
   - **Blog** https://rcos.io/projects/alsheh/sympy/blog
-- **ChestShopPro:** (External Project) Yitong (Frank) Wu 
+  - **ChestShopPro:** (External Project) Yitong (Frank) Wu 
   - **Pitch Slides** https://docs.google.com/presentation/d/1-K_qdqqFRkC4L-HJtkekHTFwTJ_z-P1KeAdHJL7m7rU/edit#slide=id.p
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/connection-lost/chestshoppro/profile
-  - **Date for Presentation **
+  - **Progress Update Presentation Slides**
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/connection-lost/chestshoppro
   - **Blog** https://rcos.io/projects/connection-lost/chestshoppro/blog
@@ -21,6 +23,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/14avrLrv2spXzaRnFZAl-59HUeKd5mBW3vTusC1YMIDs/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/mmetro/texteditor/profile
+  - **Progress Update Presentation Slides**
   - **Date for Presentation**
   - **Presentation Slides**
   - **Repository** https://github.com/mmetro/texteditor
@@ -28,16 +31,18 @@
 - **gnuber:** Lucien Brulé, John Caicedo, Max Wang 
   - **Pitch Slides** https://docs.google.com/presentation/d/1ibFarzAWY9APRNb1MWWV0_IX5joMIZAeUkUD4IsAH-E/edit#slide=id.gd9c453428_0_16
   - **Mentor** Adeet Phanse
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/wtg/shuttle-signups/profile
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1z6613oBdNIpahi9zob4oQGtOX5Bv-GGrk7ypKiFEt8c/edit#slide=id.gc6fa3c898_0_0
   - **Date for Presentation**
-  - **Presentation Slides** 
-  - **Repository** 
-  - **Blog** 
+  - **Presentation Slides**
+  - **Repository**  https://github.com/wtg/shuttle-signup
+  - **Blog** https://rcos.io/projects/wtg/shuttle-signups/blog
 - **LMS Grabber:** Craig Slegel 
   - **Pitch Slides** https://docs.google.com/presentation/d/1j2tl1zpjSl48C6spo9_g4BiO0aXTwVyJuaHDtdNpAJ4/edit#slide=id.p
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/slegec/lms_grabber/profile
-  - **Date for Presentation **
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1-BbTabatUFGdLqMo0l12jcweonBs2QEQpgQ3W3pyEmQ/edit
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/slegec/lms_grabber
   - **Blog** https://rcos.io/projects/slegec/lms_grabber/blog
@@ -45,7 +50,8 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1j0bTSQpmIW1rQMnfz8zSAiCTfebzUqg2N4Z9gilK_5s/edit#slide=id.p
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/foxe2/capp-reporter/profile
-  - **Date for Presentation **
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1WavwDWTKdcwhMeTtqXsHzcrFDo5mUOlVAqXzMv66T_Y/edit
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/foxe2/CAPP-Reporter
   - **Blog** https://rcos.io/projects/foxe2/capp-reporter/blog
@@ -53,6 +59,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1rmT_0uOzC28oyGvqp9fbDjiM_YFyFm_8EueIq129Dxk/edit#slide=id.g1389d3c552_0_143
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/vcc-helpdesk/timecard/profile
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1E7LnnQzXFrKMaKkaxiFCHeT4nczqexU_eeqgxeclnW4/edit?ts=5833a4b3#slide=id.g13ba6fbf79_0_0
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/vcc-helpdesk/timecard
@@ -61,7 +68,8 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/15Zx6DyOm4VerbV0yRQ1NKjoacn1enwTTBgLFA0bKTmY/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/mkd93/minebot-v2/profile
-  - **Date for Presentation **
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1xNK3xEyi9EZUNaqjzSuIYnN5aWtap_V-Or85aS9nEU8/edit#slide=id.g193ab1ea0d_2_225
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/mkd93/minebot-v2
   - **Blog**  https://rcos.io/projects/mkd93/minebot-v2/blog
@@ -77,6 +85,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1d20ZRyCcwkWvFNCh1HcROrYyd3kuR6KlKr4YKEOOD1E/edit#slide=id.p
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/chinrw/weatherbot/profile
+  - **Progress Update Presentation Slides**
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/chinrw/WeatherBot
@@ -85,6 +94,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/15Xva3CoWGfksQZwuZu6vYHeMm6OfP-A9j_QbzArHup0/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/rmarathay/geocommerce/profile
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1WwWKFcV_m0hr0mkQdMGBKbicdtLngyEyUy0uf0cTa00/edit#slide=id.p
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/rmarathay/geocommerce
@@ -93,6 +103,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/14Jojg8lQ4snVQjEp9IMmBuByENOvDIcMtIBfKkw2plo/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/profile
+  - **Progress Update Presentation Slides**
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/mmetro/WeirdSideofYouTube
@@ -101,7 +112,8 @@
   - **Pitch Slides** https://drive.google.com/open?id=0B3AxVWEWY1u0Z3R6eXI3bWFWblk
   - **Mentor** Adeet Phanse
   - **Dashboard** https://rcos.io/projects/extesy/hoverzoom/profile
-  - **Date for Presentation **
+  - **Progress Update Presentation Slides** https://slack-files.com/files-pri-safe/T033VT1N8-F35TXUEP7/presentation_update.pdf?c=1479834538-b5739edb419af17f3ff7d0ca2a8797319f42996c
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/extesy/hoverzoom
   - **Blog** https://rcos.io/projects/extesy/hoverzoom/blog
@@ -109,7 +121,8 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/13ENYzGtbxpRxzrQTBy6_OppgPF_wJla24alDsKAhoJ0/edit#slide=id.gd9c453428_0_16
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/lawron/heavylook/profile
-  - **Date for Presentation **
+  - **Progress Update Presentation Slides**
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/lawron/heavylook
   - **Blog** https://rcos.io/projects/lawron/heavylook/blog
@@ -117,6 +130,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1DZDgAEbPq5hVMuaGEUChAejdztzinW-eOq4qi0BwyDI/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/demsks/relax/profile
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1h2K7dtCBz8e_YBH-JTTbPGnEP_Bw5KR6gVEiCzRepM4/edit#slide=id.g13bca89d75_0_50
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/demsks/relax
@@ -125,6 +139,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1xSao8wujT9CuaUK9bxqnGx5U_WAJQKy8l8mZL8LxDcY/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard**
+  - **Progress Update Presentation Slides**
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** 
@@ -133,6 +148,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/11UTMj7Rm-qdbHeZJl5BbY2jelLFjJd5l4sukudNwpuA/edit#slide=id.gd9c453428_0_16
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/rellink/knowledge-api/profile
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/17h-DvAoSN9iTERVB_Jmf2mlBj8_ie_85qqpXuwIUGL4/edit
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/rellink/knowledge-api
