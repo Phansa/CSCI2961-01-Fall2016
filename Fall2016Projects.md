@@ -120,7 +120,7 @@
   - **Blog** https://rcos.io/projects/extesy/hoverzoom/blog
 - **Heavy Look A Window Explorers Edition:**  Ronald Law 
   - **Pitch Slides** https://docs.google.com/presentation/d/13ENYzGtbxpRxzrQTBy6_OppgPF_wJla24alDsKAhoJ0/edit#slide=id.gd9c453428_0_16
-  - **Mentor** Moorthy
+  - **Mentor** Moorthy 
   - **Dashboard** https://rcos.io/projects/lawron/heavylook/profile
   - **Progress Update Presentation Slides**
   - **Date for Presentation**
